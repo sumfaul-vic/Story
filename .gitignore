@@ -1,0 +1,4 @@
+#files to be ignored
+chapter3.txt
+.DS_Store
+secrets.txt
